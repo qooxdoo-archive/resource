@@ -1,27 +1,27 @@
 @font-face {
   font-family: "JosefinSlab";
-  src: url("../../fonts/JosefinSlab-Light-webfont.woff") format("woff");
+  src: url("../font/JosefinSlab-Light-webfont.woff") format("woff");
   font-weight: lighter;
   font-style: normal;
 }
 
 @font-face {
   font-family: "JosefinSlab";
-  src: url("../../fonts/JosefinSlab-Regular-webfont.woff") format("woff");
+  src: url("../font/JosefinSlab-Regular-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "JosefinSlab";
-  src: url("../../fonts/JosefinSlab-SemiBold-webfont.woff") format("woff");
+  src: url("../font/JosefinSlab-SemiBold-webfont.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "JosefinSlab";
-  src: url("../../fonts/JosefinSlab-Bold-webfont.woff") format("woff");
+  src: url("../font/JosefinSlab-Bold-webfont.woff") format("woff");
   font-weight: 800;
   font-style: normal;
 }
