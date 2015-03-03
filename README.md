@@ -1,4 +1,4 @@
 resource
 ========
 
-www-resources for qooxdoo-contrib projects
+Static resources for qooxdoo-contrib websites
